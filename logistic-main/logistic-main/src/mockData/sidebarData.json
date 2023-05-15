@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Логистика",
+    "points": [
+      {
+        "name": "test",
+        "link": "#"
+      },
+      {
+        "name": "test",
+        "link": "#"
+      },
+      {
+        "name": "test",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Перевозчики",
+    "points": [
+      {
+        "name": "test",
+        "link": "#"
+      },
+      {
+        "name": "test",
+        "link": "#"
+      },
+      {
+        "name": "test",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Задачи",
+    "points": [
+      {
+        "name": "test",
+        "link": "#"
+      },
+      {
+        "name": "test",
+        "link": "#"
+      },
+      {
+        "name": "test",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Аналитика",
+    "points": [
+      {
+        "name": "Справочник",
+        "link": "#"
+      },
+      {
+        "name": "База",
+        "link": "#"
+      },
+      {
+        "name": "База",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Адреса",
+    "points": [
+      {
+        "name": "Справочник",
+        "link": "#"
+      },
+      {
+        "name": "База",
+        "link": "#"
+      },
+      {
+        "name": "База",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Товары",
+    "points": [
+      {
+        "name": "Справочник",
+        "link": "#"
+      },
+      {
+        "name": "База",
+        "link": "#"
+      },
+      {
+        "name": "База",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Информация для склада",
+    "points": [
+      {
+        "name": "test",
+        "link": "#"
+      },
+      {
+        "name": "test",
+        "link": "#"
+      },
+      {
+        "name": "test",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Адреса",
+    "points": [
+      {
+        "name": "test",
+        "link": "#"
+      },
+      {
+        "name": "test",
+        "link": "#"
+      },
+      {
+        "name": "test",
+        "link": "#"
+      }
+    ]
+  }
+]
